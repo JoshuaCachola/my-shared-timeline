@@ -3,7 +3,7 @@
     "populations": [
       "dinosaurs": 0,
       "asteroids": 0,
-      "mammoths": 450,
+      "mammoths": 700,
       "humans": 100 +,
     ]
 }
